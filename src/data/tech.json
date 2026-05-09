@@ -1,14 +1,6 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
-      "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
-      ]
-    },
-    {
       "title": "Frontend",
       "skills": [
         { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },

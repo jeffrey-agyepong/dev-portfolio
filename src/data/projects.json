@@ -1,20 +1,57 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "title": "Alberta Vision Care",
+    "description": "A modern website rebuild focused on performance, SEO, and responsive design for an Alberta-based vision care company.",
+    "images": ["https://ik.imagekit.io/boxhuwbys/abvisioncare?updatedAt=1742855222012", "https://ik.imagekit.io/boxhuwbys/abvisioncare?updatedAt=1742855222012"],
+    "tech": ["Astro", "Cloudcannon", "Tailwind CSS"],
     "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
+    "link": "https://abvisioncare.netlify.app/",
+    "category": "Custom Website"
+  },
+  {
+    "title": "Mint Mantis",
+    "description": "A high-performance business website rebuild with a focus on SEO, web hosting, and scalable modern development practices.",
+    "images": ["https://ik.imagekit.io/boxhuwbys/ja-web-design-mint-mantis.webp?updatedAt=1731810708783", "https://ik.imagekit.io/boxhuwbys/ja-web-design-mint-mantis.webp?updatedAt=1731810708783"],
+    "tech": ["WordPress", "SEO", "Web Hosting", "JavaScript"],
+    "platforms": ["web"],
+    "link": "https://mintmantis.netlify.app/",
     "category": "Published Website"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "title": "Mako Construction & Renovation",
+    "description": "A custom construction company website designed to improve branding, online visibility, and lead generation through modern web design.",
+    "images": ["https://ik.imagekit.io/azupnt3mqx/ja-web-design-mako-construction-renovation.webp", "https://ik.imagekit.io/azupnt3mqx/ja-web-design-mako-construction-renovation.webp"],
+    "tech": ["WordPress", "Figma", "SEO", "Responsive Design"],
+    "platforms": ["web"],
+    "link": "https://makoprojects.netlify.app/",
+    "category": "Published Website"
+  },
+  {
+    "title": "India Garden Restaurant",
+    "description": "A restaurant website rebuild focused on improving usability, mobile responsiveness, and customer engagement.",
+    "images": ["https://ik.imagekit.io/boxhuwbys/ja-web-design-india-garden.webp?updatedAt=1732748487182", "https://ik.imagekit.io/boxhuwbys/ja-web-design-india-garden.webp?updatedAt=1732748487182"],
+    "tech": ["WordPress", "PHP", "CSS", "SEO"],
+    "platforms": ["web"],
+    "link": "https://indiagarden.ca/",
+    "category": "Published Website"
+  },
+  {
+    "title": "All India Restaurant & Sweets",
+    "description": "A complete restaurant website redesign with improved SEO, modern visuals, and enhanced mobile responsiveness.",
+    "images": ["https://ik.imagekit.io/boxhuwbys/allindia.webp?updatedAt=1714553068241", "https://ik.imagekit.io/boxhuwbys/allindia.webp?updatedAt=1714553068241"],
+    "tech": ["WordPress", "SEO", "JavaScript", "Responsive Design"],
+    "platforms": ["web"],
+    "link": "https://allindiarestaurant.com/",
+    "category": "Published Website"
+  },
+  {
+    "title": "J.A Web Design",
+    "description": "A custom portfolio website showcasing web development, SEO, branding, and responsive web design services.",
+    "images": ["https://ik.imagekit.io/boxhuwbys/jawebdesign.webp?updatedAt=1714550475083", "https://ik.imagekit.io/boxhuwbys/jawebdesign.webp?updatedAt=1714550475083"],
+    "tech": ["Astro", "Tailwind CSS", "JavaScript", "Netlify"],
+    "platforms": ["web"],
+    "link": "https://jawebdesign.ca/",
+    "category": "Portfolio"
   }
+  
 ]

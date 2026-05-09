@@ -1,26 +1,58 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "company": "Kastle Media Solutions Inc",
+    "role": "Web Developer & Designer",
+    "period": "Apr 2025 - May 2026",
+    "type": "Contract",
+    "description": "Developed and maintained WordPress websites using Elementor, focusing on responsive, user-friendly front-end design. Managed website updates, maintenance, and performance optimization to ensure smooth functionality. Published and formatted blog content to support SEO and improve engagement.",
+    "skills": ["WordPress", "Elementor", "SEO", "Responsive Design", "Website Maintenance"]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "company": "J.A Web Design",
+    "role": "Web Developer & Designer",
+    "period": "Apr 2019 - Present",
+    "type": "Freelance",
+    "description": "Collaborate with clients to deliver tailored website solutions aligned with business goals. Design, develop, and maintain websites using HTML, CSS, JavaScript, PHP, WordPress, and Astro. Optimize websites for SEO, performance, and user experience while managing multiple projects in fast-paced environments.",
+    "skills": ["HTML", "CSS", "JavaScript", "PHP", "WordPress", "Astro", "SEO", "Troubleshooting"]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "Mint Mantis",
+    "role": "Web Developer",
+    "period": "Aug 2024 - Present",
+    "type": "Contract",
+    "description": "Develop and maintain modern, user-friendly websites with a focus on performance, responsiveness, and SEO. Provide ongoing maintenance and technical support while implementing custom functionality to improve user experience.",
+    "skills": ["Web Development", "SEO", "Responsive Design", "Technical Support", "Performance Optimization"]
+  },
+  {
+    "company": "CBN Marketing",
+    "role": "Web Developer",
+    "period": "Jun 2024 - Apr 2025",
+    "type": "Contract",
+    "description": "Developed and maintained modern websites focused on performance, responsiveness, and SEO. Provided ongoing website maintenance, technical support, and custom functionality implementation for client projects.",
+    "skills": ["WordPress", "SEO", "Responsive Design", "Website Maintenance", "Technical Support"]
+  },
+  {
+    "company": "PlanetCom Managed IT + Creative",
+    "role": "Web Developer",
+    "period": "Sep 2024 - Feb 2025",
+    "type": "Contract",
+    "description": "Developed modern, user-friendly websites focused on performance and SEO. Managed web server maintenance and provided ongoing support to ensure secure, reliable, and optimized website functionality.",
+    "skills": ["Web Development", "Web Hosting", "SEO", "Server Maintenance", "Website Support"]
+  },
+  {
+    "company": "Obsessed Media Group",
+    "role": "Web Designer",
+    "period": "Aug 2023 - Aug 2024",
+    "type": "Contract",
+    "description": "Designed and optimized modern e-commerce websites with a focus on usability, SEO, and performance. Delivered ongoing maintenance and stayed current with emerging web technologies and design trends.",
+    "skills": ["E-commerce", "Web Design", "SEO", "Performance Optimization", "Website Maintenance"]
+  },
+  {
+    "company": "Northern Alberta Institute of Technology",
+    "role": "Diploma in DMIT - Web Development & Design",
+    "period": "2022 - 2024",
+    "type": "Education",
+    "description": "Completed the Digital Media and IT program specializing in Web Development & Design, focusing on modern web technologies, responsive design, and development best practices.",
+    "skills": ["HTML", "CSS", "JavaScript", "PHP", "Responsive Design", "UI/UX"]
   }
 ]

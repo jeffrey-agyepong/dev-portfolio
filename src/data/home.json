@@ -1,22 +1,22 @@
 {
-  "name": "John Doe",
+  "name": "Jeffrey Agyepong",
   "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "John Doe",
-  "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
+  "intro": "I’m a freelance web developer & designer and proud NAIT graduate with over seven years of experience crafting custom, responsive, and high-performing websites",
+  "introHtml": "I’m a freelance web developer & designer and proud NAIT graduate with over seven years of experience crafting custom, responsive, and high-performing websites",
+  "webpageTitle": "Jeffrey Agyepong",
+  "resumeUrl": "https://ik.imagekit.io/boxhuwbys/Jeffrey_Agyepong_-_Web_Developer.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/jeffrey-agyepong",
       "icon": "mdi:github",
       "showInContact": true
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "https://www.linkedin.com/in/jeffrey-agyepong/",
       "icon": "mdi:linkedin",
       "showInContact": true
     },
@@ -34,13 +34,13 @@
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:hello@jawebdesign.ca",
       "icon": "mdi:email",
       "showInContact": true
     },
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
+      "url": "https://wa.me/7809837309",
       "icon": "mdi:whatsapp",
       "showInContact": true
     },
