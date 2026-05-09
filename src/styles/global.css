@@ -41,7 +41,7 @@
   /* Default Theme - Dark */
   :root,
   [data-theme="default-dark"] {
-    --color-background: rgb(20, 15, 90);
+    --color-background: rgb(11, 36, 113);
     --color-accent: #A78BFA;
     --color-maintext: #FFFFFF;
     --color-subtext: #b2bed1;
