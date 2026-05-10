@@ -12,7 +12,7 @@
     {
       "title": "Backend",
       "skills": [
-        { "name": "FastAPI", "level": 3, "icon": "skill-icons:fastapi" },
+        { "name": "PHP", "level": 3, "icon": "skill-icons:fastapi" },
         { "name": "Python", "level": 3, "icon": "skill-icons:python-dark" },
         { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
       ]
