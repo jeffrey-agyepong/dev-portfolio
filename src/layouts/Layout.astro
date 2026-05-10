@@ -20,6 +20,16 @@ const defaultTheme = `${baseTheme}-dark`;
     <link rel="icon" type="image/png" href="/favicon.ico" />
     <title>{title}</title>
 
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NP4K9XNPLG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-NP4K9XNPLG');
+  </script>
+
     <!-- THEME TOGGLE SCRIPT -->
     <script is:inline define:vars={{ baseTheme, defaultTheme }}>
       const savedTheme = localStorage.getItem('theme');
