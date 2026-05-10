@@ -3,25 +3,35 @@
     {
       "title": "Frontend",
       "skills": [
+        { "name": "JavaScript", "level": 3, "icon": "skill-icons:javascript" },
         { "name": "Astro", "level": 3, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 3, "icon": "skill-icons:html" },
+        { "name": "Vue", "level": 3, "icon": "skill-icons:vuejs-dark" },
         { "name": "CSS", "level": 3, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 3, "icon": "skill-icons:tailwindcss-dark" }
+        {
+          "name": "Tailwind CSS",
+          "level": 3,
+          "icon": "skill-icons:tailwindcss-dark"
+        }
       ]
     },
     {
       "title": "Backend",
       "skills": [
-        { "name": "PHP", "level": 3, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 3, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "PHP", "level": 3, "icon": "skill-icons:php-dark" },
+        { "name": "WordPress", "level": 3, "icon": "skill-icons:wordpress" },
+        { "name": "Shopify", "level": 3, "icon": "logos:shopify"},
+        { "name": "Elementor", "level": 3, "icon": "simple-icons:elementor" },
+        { "name": "Node.js", "level": 3, "icon": "skill-icons:nodejs-dark" }
       ]
     },
     {
       "title": "Database",
       "skills": [
         { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 3, "icon": "skill-icons:postgresql-dark" }
+        { "name": "Laravel", "level": 1, "icon": "skill-icons:laravel-dark" },
+        { "name": "MySQL", "level": 3, "icon": "skill-icons:postgresql-dark" },
+        { "name": "Netlify", "level": 1, "icon": "skill-icons:netlify-dark" },
+        { "name": "Figma", "level": 2, "icon": "skill-icons:figma-dark" }
       ]
     }
   ]
