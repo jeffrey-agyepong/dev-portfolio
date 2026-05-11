@@ -6,7 +6,7 @@
     "tech": ["Astro", "Cloudcannon", "Tailwind CSS"],
     "platforms": ["web"],
     "link": "https://abvisioncare.netlify.app/",
-    "category": "Custom Website"
+    "category": "Vision Care"
   },
   {
     "title": "Mint Mantis",
@@ -15,7 +15,7 @@
     "tech": ["WordPress", "SEO", "Web Hosting", "JavaScript"],
     "platforms": ["web"],
     "link": "https://mintmantis.netlify.app/",
-    "category": "Published Website"
+    "category": "Venture Studio"
   },
   {
     "title": "Mako Construction & Renovation",
@@ -24,7 +24,7 @@
     "tech": ["WordPress", "Figma", "SEO", "Responsive Design"],
     "platforms": ["web"],
     "link": "https://makoprojects.netlify.app/",
-    "category": "Published Website"
+    "category": "Construction"
   },
   {
     "title": "India Garden Restaurant",
@@ -33,7 +33,7 @@
     "tech": ["WordPress", "PHP", "CSS", "SEO"],
     "platforms": ["web"],
     "link": "https://indiagarden.ca/",
-    "category": "Published Website"
+    "category": "Restaurant"
   },
   {
     "title": "All India Restaurant & Sweets",
@@ -42,7 +42,7 @@
     "tech": ["WordPress", "SEO", "JavaScript", "Responsive Design"],
     "platforms": ["web"],
     "link": "https://allindiarestaurant.com/",
-    "category": "Published Website"
+    "category": "Restaurant"
   },
   {
     "title": "J.A Web Design",
@@ -51,7 +51,7 @@
     "tech": ["Astro", "Tailwind CSS", "JavaScript", "Netlify"],
     "platforms": ["web"],
     "link": "https://jawebdesign.ca/",
-    "category": "Portfolio"
+    "category": "Web Development Company"
   }
   
 ]
