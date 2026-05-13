@@ -1,39 +1,39 @@
 {
   "categories": [
-    {
-      "title": "Frontend",
-      "skills": [
-        { "name": "JavaScript", "level": 3, "icon": "skill-icons:javascript" },
-        {"name":"React","level":3,"icon":"skill-icons:react-dark"},
-        { "name": "Astro", "level": 3, "icon": "skill-icons:astro" },
-        { "name": "Vue", "level": 3, "icon": "skill-icons:vuejs-dark" },
-        { "name": "CSS", "level": 3, "icon": "skill-icons:css" },
-        {
-          "name": "Tailwind CSS",
-          "level": 3,
-          "icon": "skill-icons:tailwindcss-dark"
-        }
-      ]
-    },
-    {
-      "title": "Backend",
-      "skills": [
-        { "name": "PHP", "level": 3, "icon": "skill-icons:php-dark" },
-        { "name": "WordPress", "level": 3, "icon": "skill-icons:wordpress" },
-        { "name": "Shopify", "level": 3, "icon": "logos:shopify"},
-        { "name": "Elementor", "level": 3, "icon": "simple-icons:elementor" },
-        { "name": "Node.js", "level": 3, "icon": "skill-icons:nodejs-dark" }
-      ]
-    },
-    {
-      "title": "Database & Tools",
-      "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "Laravel", "level": 1, "icon": "skill-icons:laravel-dark" },
-        { "name": "MySQL", "level": 3, "icon": "skill-icons:postgresql-dark" },
-        { "name": "Netlify", "level": 1, "icon": "skill-icons:netlify-dark" },
-        { "name": "Figma", "level": 2, "icon": "skill-icons:figma-dark" }
-      ]
-    }
+     {
+    "title": "Frontend",
+    "skills": [
+      { "name": "JavaScript", "level": 3, "icon": "skill-icons:javascript" },
+      { "name": "React", "level": 2, "icon": "skill-icons:react-dark" },
+      { "name": "Astro", "level": 3, "icon": "skill-icons:astro" },
+      { "name": "Vue.js", "level": 2, "icon": "skill-icons:vuejs-dark" },
+      { "name": "Tailwind CSS", "level": 3, "icon": "skill-icons:tailwindcss-dark" }
+    ]
+  },
+  {
+    "title": "CMS & Ecommerce",
+    "skills": [
+      { "name": "WordPress", "level": 3, "icon": "skill-icons:wordpress" },
+      { "name": "Shopify", "level": 2, "icon": "logos:shopify" },
+      { "name": "Elementor", "level": 3, "icon": "simple-icons:elementor" }
+    ]
+  },
+  {
+    "title": "Backend & Database",
+    "skills": [
+      { "name": "PHP", "level": 3, "icon": "skill-icons:php-dark" },
+      { "name": "Node.js", "level": 2, "icon": "skill-icons:nodejs-dark" },
+      { "name": "Laravel", "level": 1, "icon": "skill-icons:laravel-dark" },
+      { "name": "MySQL", "level": 2, "icon": "skill-icons:mysql-dark" },
+      { "name": "SQLite", "level": 1, "icon": "skill-icons:sqlite" }
+    ]
+  },
+  {
+    "title": "Design & Deployment",
+    "skills": [
+      { "name": "Figma", "level": 2, "icon": "skill-icons:figma-dark" },
+      { "name": "Netlify", "level": 2, "icon": "skill-icons:netlify-dark" }
+    ]
+  }
   ]
 }
