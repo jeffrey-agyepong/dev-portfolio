@@ -26,7 +26,7 @@
       ]
     },
     {
-      "title": "Database",
+      "title": "Database & Tools",
       "skills": [
         { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
         { "name": "Laravel", "level": 1, "icon": "skill-icons:laravel-dark" },
