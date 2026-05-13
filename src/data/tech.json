@@ -4,6 +4,7 @@
       "title": "Frontend",
       "skills": [
         { "name": "JavaScript", "level": 3, "icon": "skill-icons:javascript" },
+        {"name":"React","level":3,"icon":"skill-icons:react-dark"},
         { "name": "Astro", "level": 3, "icon": "skill-icons:astro" },
         { "name": "Vue", "level": 3, "icon": "skill-icons:vuejs-dark" },
         { "name": "CSS", "level": 3, "icon": "skill-icons:css" },
